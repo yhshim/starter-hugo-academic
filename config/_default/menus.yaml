@@ -13,8 +13,8 @@ main:
   - name: CV
     url: '#CV'
     weight: 30
-  - name: Teaching
-    url: '#teaching'
+  - name: Resources
+    url: '#resources'
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
