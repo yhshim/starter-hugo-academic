@@ -7,8 +7,8 @@ interests:
   - Macroeconomics
 social: []
 organizations: []
-education:
-  courses: []
+#education:
+#  courses: []
 email: ""
 superuser: true
 highlight_name: true
