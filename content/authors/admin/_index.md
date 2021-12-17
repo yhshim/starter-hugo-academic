@@ -10,8 +10,8 @@ interests:
   - International Trade
 social: []
 organizations: []
-education:
-  courses: []
+#education:
+#  courses: []
 email: yhshim@uchicago.edu
 superuser: true
 highlight_name: true
