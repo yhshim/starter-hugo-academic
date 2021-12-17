@@ -16,6 +16,6 @@ email: yhshim@uchicago.edu
 superuser: true
 highlight_name: true
 ---
-Welcome to my website! I'm Younghun Shim, fifth year Ph.D. student in Economics at the University of Chicago. 
+Welcome to my website! I am currently a fifth year Ph.D. student in Economics at the University of Chicago. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
