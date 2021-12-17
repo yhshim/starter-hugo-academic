@@ -12,10 +12,10 @@ social: []
 organizations: []
 education:
   courses: []
-email: ""
+email: yhshim@uchicago.edu
 superuser: true
 highlight_name: true
 ---
-Hi, I'm Younghun Shim. 
+Welcome to my website! I'm Younghun Shim, fifth year Ph.D. student in Economics at the University of Chicago. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
