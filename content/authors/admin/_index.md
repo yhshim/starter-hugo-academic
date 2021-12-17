@@ -13,4 +13,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi, I am Younghun Shim.
+Hi, I'm Younghun Shim. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
