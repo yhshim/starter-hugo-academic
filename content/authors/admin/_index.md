@@ -1,7 +1,7 @@
 ---
 title: Younghun Shim
 role: Ph.D. candidate in Economics, University of Chicago
-avatar_filename: img_1571.jpg
+avatar_filename: ""
 bio: My research interests include Macroeconomics, Growth, Innovation, and
   International Trade
 interests:
