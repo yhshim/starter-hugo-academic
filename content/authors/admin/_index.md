@@ -17,4 +17,4 @@ highlight_name: true
 ---
 Welcome to my website! I am currently a fifth year Ph.D. student in Economics at the University of Chicago. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Younghun_Shim.pdf" "newtab" >}}CV{{< /staticref >}}.
