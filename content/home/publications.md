@@ -19,4 +19,8 @@ content:
 design:
   view: 4
 ---
-**Innovation on Tools and the Rise of Skill Premium (with Hyejin Park)**
+**Innovation on Tools and the Rise of Skill Premium (with Hyejin Park)** <!--StartFragment-->
+
+{{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}
+
+<!--EndFragment-->
