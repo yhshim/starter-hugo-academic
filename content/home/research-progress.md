@@ -4,7 +4,7 @@ widget_id: research-progress
 headless: true
 weight: 120
 title: Work in Progress
-active: false
+active: true
 design:
   columns: "2"
   background:
