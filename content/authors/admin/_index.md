@@ -17,6 +17,6 @@ highlight_name: true
 ---
 Welcome to my website! I am currently a fifth year Ph.D. student in Economics at the University of Chicago. 
 
-email : yhshim@uchicago.edu
+Email : yhshim@uchicago.edu
 
 Download my {{% staticref "uploads/CV_Younghun Shim.pdf" %}}CV{{% /staticref %}}
