@@ -11,4 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-test
+**From Imitator to Innovator: How do firms grow in developing countries? (with Jaedo Choi)**
