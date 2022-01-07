@@ -23,10 +23,11 @@ design:
 
 
 
-<div>
-<a href=#none id="show" onclick="if(hide.style.display=='none') {hide.style.display='';show.innerText='▲'} else {hide.style.display='none';show.innerText='▶'}">▶</a>
-<div id="hide" style="display: none">
-**Abstract :** This paper measures innovation on tools used by different occupations and studies
+<!--StartFragment-->
+
+<details>\
+   <summary>Abstract</summary>\
+   <p>This paper measures innovation on tools used by different occupations and studies
 its impact on the increasing skill premium. First, we match the description of tools
 from Wikipedia with patent text data using textual analysis to measure the innovation
 on tools. Then, we study its relation with the labor market variables at the occupation
@@ -37,6 +38,7 @@ occupation. Motivated by this reduced-form evidence, we build a model where tool
 innovation increases the demand of occupations, potentially more for skilled workers.
 Parameters are estimated through the Generalized Method of Moments. We nd that
 tool innovation accounts for 61% of the total demand factor that contributed to the
-skill premium increase in 1980-2015.
-</div>
-</div>
+skill premium increase in 1980-2015.</p>\
+</details>
+
+<!--EndFragment-->
