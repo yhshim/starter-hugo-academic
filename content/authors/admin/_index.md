@@ -19,4 +19,4 @@ Welcome to my website! I am currently a fifth year Ph.D. student in Economics at
 
 email : yhshim@uchicago.edu
 
-{{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_Younghun Shim.pdf" %}}CV{{% /staticref %}}
+Download my {{% staticref "uploads/CV_Younghun Shim.pdf" %}}CV{{% /staticref %}}
