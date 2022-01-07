@@ -21,12 +21,10 @@ design:
 ---
 **Innovation on Tools and the Rise of Skill Premium (with Hyejin Park)** {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}
 
-
-
 <!--StartFragment-->
 
-<details>\
-   <summary>Abstract</summary>\
+<details>
+   <summary>Abstract</summary>
    <p>This paper measures innovation on tools used by different occupations and studies
 its impact on the increasing skill premium. First, we match the description of tools
 from Wikipedia with patent text data using textual analysis to measure the innovation
@@ -38,7 +36,7 @@ occupation. Motivated by this reduced-form evidence, we build a model where tool
 innovation increases the demand of occupations, potentially more for skilled workers.
 Parameters are estimated through the Generalized Method of Moments. We nd that
 tool innovation accounts for 61% of the total demand factor that contributed to the
-skill premium increase in 1980-2015.</p>\
+skill premium increase in 1980-2015.</p>
 </details>
 
 <!--EndFragment-->
