@@ -19,9 +19,11 @@ content:
 design:
   view: 4
 ---
-**Innovation on Tools and the Rise of Skill Premium (with Hyejin Park)** {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}
+**Innovation on Tools and the Rise of Skill Premium (with** <a href="hyejinpark.net/">**Hyejin Park**</a>**)** {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}
 
 <!--StartFragment-->
+
+
 
 <details>
    <summary>Abstract</summary>
@@ -41,9 +43,7 @@ skill premium increase in 1980-2015.</p>
 
 <!--EndFragment-->
 
-
-
-**Technology Adoption and Late Industrialization(with Jaedo Choi)** {{% staticref "uploads/Choi_JMP.pdf" %}}PDF{{% /staticref %}}
+**Technology Adoption and Late Industrialization (with** <a href="jaedochoi.com/">**Jaedo Choi**</a>**)** {{% staticref "uploads/Choi_JMP.pdf" %}}PDF{{% /staticref %}}
 
 <!--StartFragment-->
 
