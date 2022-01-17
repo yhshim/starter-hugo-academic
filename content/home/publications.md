@@ -3,8 +3,8 @@ widget: pages
 widget_id: research
 headless: true
 weight: 90
-title: ""
-subtitle: Working Papers
+title: Working Papers
+subtitle: ""
 content:
   page_type: publication
   count: 5
