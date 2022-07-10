@@ -44,7 +44,7 @@ skill premium increase in 1980-2015.</p>
 
 <!--EndFragment-->
 
-**Technology Adoption and Late Industrialization (with** <a href="http://www.jaedochoi.com/">**Jaedo Choi**</a>**)** {{% staticref "uploads/Choi_JMP.pdf" %}}PDF{{% /staticref %}}
+**Technology Adoption and Late Industrialization (with** <a href="http://www.jaedochoi.com/">**Jaedo Choi**</a>**)** {{% staticref "uploads/Choi_Shim_Mar.pdf" %}}PDF{{% /staticref %}}
 
 <!--StartFragment-->
 
