@@ -6,7 +6,7 @@ bio: My research interests include Macroeconomics, Growth, Innovation, and
   International Trade
 interests:
   - Macroeconomics
-  - Economic Growth
+  - Growth
   - Innovation
   - International Trade
 social: []
