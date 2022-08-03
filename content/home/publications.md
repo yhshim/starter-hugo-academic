@@ -19,7 +19,9 @@ content:
 design:
   view: 4
 ---
-**From Imitator to Innovator: Appropriate Technology Policy in Developing Countries (with** <a href="http://www.jaedochoi.com/">**Jaedo Choi**</a>**) \[STEG Small Research Grant]**
+**From Imitator to Innovator: Appropriate Technology Policy in Developing Countries** 
+
+**(with** <a href="http://www.jaedochoi.com/">**Jaedo Choi**</a>**) \[STEG Small Research Grant]**
 
 **<!--StartFragment-->**
 
