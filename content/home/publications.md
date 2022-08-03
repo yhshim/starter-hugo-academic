@@ -19,9 +19,9 @@ content:
 design:
   view: 4
 ---
-**From Imitator to Innovator: Appropriate Technology Policy in Developing Countries** (JMP)
+**From Imitator to Innovator: Appropriate Technology Policy in Developing Countries** **(JMP)**
 
-**<font size="2">(with** <a href="http://www.jaedochoi.com/">**Jaedo Choi**</a>**) \[STEG Small Research Grant]</font>**
+**(with** <a href="http://www.jaedochoi.com/">**Jaedo Choi**</a>**) \[STEG Small Research Grant]**
 
 **<!--StartFragment-->**
 
@@ -37,7 +37,7 @@ Should governments in developing countries promote technology adoption, or shoul
 
 **Innovation on Tools and the Rise of Skill Premium** 
 
-**<font size="2">(with** <a href="http://www.hyejinpark.net/">**Hyejin Park**</a>**)** {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}</font>
+**(with** <a href="http://www.hyejinpark.net/">**Hyejin Park**</a>**)** {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}
 
 <!--StartFragment-->
 
@@ -64,7 +64,7 @@ skill premium increase in 1980-2015.</p>
 
 **Technology Adoption and Late Industrialization** 
 
-**<font size="2">(with** <a href="http://www.jaedochoi.com/">**Jaedo Choi**</a>**)** {{% staticref "uploads/Choi_Shim_Mar.pdf" %}}PDF{{% /staticref %}}</font>
+**(with** <a href="http://www.jaedochoi.com/">**Jaedo Choi**</a>**)** {{% staticref "uploads/Choi_Shim_Mar.pdf" %}}PDF{{% /staticref %}}
 
 <!--StartFragment-->
 
