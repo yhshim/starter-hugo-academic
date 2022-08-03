@@ -37,7 +37,7 @@ Should governments in developing countries promote technology adoption, or shoul
 
 **Innovation on Tools and the Rise of Skill Premium** 
 
-**<font size="-1">(with** <a href="http://www.hyejinpark.net/">**Hyejin Park**</a>**)** {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}</font>
+**<font size="-0.5">(with** <a href="http://www.hyejinpark.net/">**Hyejin Park**</a>**)** {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}</font>
 
 <!--StartFragment-->
 
