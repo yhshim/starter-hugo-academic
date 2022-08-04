@@ -19,7 +19,7 @@ content:
 design:
   view: 4
 ---
-<p style="color:blue;">**From Imitator to Innovator: Appropriate Technology Policy in Developing Countries** **(JMP)</p>**
+From Imitator to Innovator: Appropriate Technology Policy in Developing Countries (JMP)
 
 <font size="3"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) \[STEG Small Research Grant]</font>
 
@@ -35,7 +35,7 @@ design:
 
 <!--EndFragment-->
 
-<p style="color:blue;">**Innovation on Tools and the Rise of Skill Premium</p>**
+Innovation on Tools and the Rise of Skill Premium
 
 <font size="3">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}</font>
 
@@ -62,7 +62,7 @@ skill premium increase in 1980-2015.</font></p>
 
 <!--EndFragment-->
 
-<p style="color:blue;">**Technology Adoption and Late Industrialization** </p>
+Technology Adoption and Late Industrialization
 
 <font size="3">(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) {{% staticref "uploads/Choi_Shim_Mar.pdf" %}}PDF{{% /staticref %}}</font>
 
