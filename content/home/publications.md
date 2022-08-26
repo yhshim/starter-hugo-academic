@@ -21,7 +21,7 @@ design:
 ---
 <meta name="theme-color" content="#2962ff">
 
-**From Imitator to Innovator: Appropriate Technology Policy in Developing Countries (JMP)** <font size="3"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) \[STEG Small Research Grant]</font>
+**From Imitator to Innovator: Appropriate Technology Policy in Developing Countries (JMP)** <font size="3.5"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) \[STEG Small Research Grant]</font>
 
   <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
@@ -35,7 +35,7 @@ design:
 
 <br>
 
-**Innovation on Tools and the Rise of Skill Premium** <font size="3">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}</font>
+**Innovation on Tools and the Rise of Skill Premium** <font size="3.5">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}</font>
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
@@ -60,7 +60,7 @@ skill premium increase in 1980-2015. </div>
 
 <br>
 
-**Technology Adoption and Late Industrialization** <font size="3">(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) {{% staticref "uploads/Choi_Shim_Mar.pdf" %}}PDF{{% /staticref %}}</font>
+**Technology Adoption and Late Industrialization** <font size="3.5">(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) {{% staticref "uploads/Choi_Shim_Mar.pdf" %}}PDF{{% /staticref %}}</font>
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
