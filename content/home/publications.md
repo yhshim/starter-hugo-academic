@@ -19,6 +19,8 @@ content:
 design:
   view: 4
 ---
+<meta name="theme-color" content="#2962ff">
+
 **From Imitator to Innovator: Appropriate Technology Policy in Developing Countries (JMP)**
 
 <font size="3"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) \[STEG Small Research Grant]</font>
