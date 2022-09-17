@@ -21,8 +21,6 @@ design:
 ---
 <meta name="theme-color" content="#2962ff">
 
-
-
 **From Adoption to Innovation: State-dependent Technology Policy in Developing Countries (JMP)** 
 
 <font size="3.5"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) \[STEG Small Research Grant]
@@ -36,7 +34,7 @@ design:
 	<b> Abstract </b>
       </span>
     </div>
-    <div class="expand-content" style="display: none; font-size:90%">Should governments in developing countries promote technology adoption, or should they support innovation? To answer this question, we use a newly digitized dataset on technology import and patents in South Korea. We find that (1) as firms closing technology gap from foreign firms, productivity growth from adoption decreases compared with innovation, (2) the adoption fee is higher when the gap is smaller, (3) when a firm adopts a technology, other firms increase patent citations to the adopted technology, suggesting knowledge diffusion. Based on these findings, we build a two-country growth model where firms can innovate or adopt technology from foreign firms. Since firms are non-atomistic, firms lose market share when they sell the technology to foreign firms. They internalize the loss by charging an adoption fee. Adoption generates knowledge diffusion, which motivates the government to subsidize adoption, but the size of diffusion decreases as the country grows. Then, we estimate the model by matching the empirical findings. Using the estimated model, we evaluate the technology policy in Korea, which started with an adoption subsidy and switched to an innovation subsidy. Our result suggests that switching from adoption to innovation subsidy generates higher welfare than alternatives. </div>
+    <div class="expand-content" style="display: none; font-size:90%">Should governments in developing countries promote technology adoption, or should they support innovation? We use a newly digitized dataset on technology imports and patents in South Korea to answer this question. We find that (1) as firms close the technology gap from foreign firms, productivity growth from adoption decreases compared with innovation, (2) the adoption fee is higher when the gap is smaller, (3) when a firm adopts a technology, other firms increase patent citations to the adopted technology, suggesting knowledge diffusion. Based on these findings, we build a two-country growth model where firms can innovate or adopt technology from foreign firms. Since firms are non-atomistic, firms lose market share when they sell the technology to foreign firms. They internalize the loss by charging an adoption fee. Adoption generates knowledge diffusion, which motivates the government to subsidize adoption, but the size of diffusion decreases as the country grows. Then, we estimate the model by matching the empirical findings. Using the estimated model, we evaluate the technology policy in Korea, which started with an adoption subsidy and switched to an innovation subsidy. Our result suggests that the policy generated 5.21% higher welfare than the case without any policy, which is higher than time-invariant policies. </div>
   </div>
 
 <br>
