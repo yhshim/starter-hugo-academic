@@ -21,9 +21,7 @@ design:
 ---
 <meta name="theme-color" content="#2962ff">
 
-**From Adoption to Innovation: State-dependent Technology Policy in Developing Countries (JMP)** <font size="3.5"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)
-
- \[STEG Small Research Grant]</font>
+**From Adoption to Innovation: State-dependent Technology Policy in Developing Countries (JMP)** <font size="3.5"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) \[STEG Small Research Grant]</font>
 
 *P﻿resented at: University of Chicago, ESAM2022, AMES2022, Federal Reserve Bank of St. Louis Ph.D. Students Workshop, Young Economist Symposium 2022, Workshop on International Trade and Intellectual Property Rights*
 
