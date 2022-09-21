@@ -9,13 +9,14 @@ interests:
   - Growth
   - Innovation
   - International Trade
+  - Development
 social: []
 organizations: []
 email: yhshim@uchicago.edu
 superuser: true
 highlight_name: true
 ---
-Welcome to my website! I am currently a fifth year Ph.D. student in Economics at the University of Chicago. 
+Welcome to my website! I am currently a 6th year Ph.D. student in Economics at the University of Chicago. I will be on the job market during 2022-2023 academic year.
 
 Email : yhshim@uchicago.edu
 
