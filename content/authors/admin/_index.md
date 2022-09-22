@@ -4,12 +4,7 @@ role: Ph.D. Candidate in Economics, University of Chicago
 avatar_filename: AVATAR.jpg
 bio: My research interests include Macroeconomics, Growth, Innovation, and
   International Trade
-interests:
-  - Macroeconomics
-  - Growth
-  - Innovation
-  - International Trade
-  - Development
+interests: []
 social: []
 organizations: []
 email: yhshim@uchicago.edu
@@ -24,7 +19,7 @@ Email : <font color="#5040ae">yhshim@uchicago.edu </font>
 
 Curriculum Vitae: {{% staticref "uploads/CV_Younghun_Shim.pdf" %}}CV{{% /staticref %}}
 
-<﻿br>
+
 
 **R﻿esearch Interests**
 
