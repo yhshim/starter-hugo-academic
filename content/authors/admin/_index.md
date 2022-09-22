@@ -23,3 +23,11 @@ Welcome to my website! I am currently a 6th year Ph.D. student in Economics at t
 Email : <font color="#5040ae">yhshim@uchicago.edu </font>
 
 Curriculum Vitae: {{% staticref "uploads/CV_Younghun_Shim.pdf" %}}CV{{% /staticref %}}
+
+<﻿br>
+
+**R﻿esearch Interests**
+
+<ul><li>M﻿acroeconomics, Growth </li>
+
+<li>Innovation, International Trade, Development </li> </ul>
