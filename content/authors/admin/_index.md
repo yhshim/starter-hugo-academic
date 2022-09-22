@@ -18,6 +18,6 @@ highlight_name: true
 ---
 Welcome to my website! I am currently a 6th year Ph.D. student in Economics at the University of Chicago. I will be on the job market during 2022-2023 academic year.
 
-Email : yhshim@uchicago.edu
+Email : <font color="#5040ae">yhshim@uchicago.edu </font>
 
 Curriculum Vitae: {{% staticref "uploads/CV_Younghun_Shim.pdf" %}}CV{{% /staticref %}}
