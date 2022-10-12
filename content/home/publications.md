@@ -21,7 +21,7 @@ design:
 ---
 <meta name="theme-color" content="#2962ff">
 
-**From Adoption to Innovation: Stage-dependent Technology Policy in Developing Countries (JMP)** 
+**From Adoption to Innovation: Stage-Dependent Technology Policy in Developing Countries (JMP)** 
 
 <font size="3.5"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) \[STEG Small Research Grant]
 
