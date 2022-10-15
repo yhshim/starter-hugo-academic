@@ -39,7 +39,9 @@ design:
 
 <br>
 
-**Innovation on Tools and the Rise of Skill Premium** <font size="3.5">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) {{% staticref "uploads/tool_innovation_Park_Shim.pdf" %}}PDF{{% /staticref %}}</font>
+**How Task-Biased is Capital-Embodied Innovation?**
+
+ <font size="3.5">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) New draft coming soon!
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
@@ -48,18 +50,7 @@ design:
 	<b> Abstract </b>
       </span>
     </div>
-    <div class="expand-content" style="display: none; font-size:90%">This paper measures innovation on tools used by different occupations and studies
-its impact on the increasing skill premium. First, we match the description of tools
-from Wikipedia with patent text data using textual analysis to measure the innovation
-on tools. Then, we study its relation with the labor market variables at the occupation
-level. We find 1) innovation on tools grew more in skill-intensive occupations, 2) it
-is positively associated with wage and employment growth across occupations, 3) it
-is positively correlated with the skill premium and skill intensity growth within each
-occupation. Motivated by this reduced-form evidence, we build a model where tool
-innovation increases the demand of occupations, potentially more for skilled workers.
-Parameters are estimated through the Generalized Method of Moments. We find that
-tool innovation accounts for 61% of the total demand factor that contributed to the
-skill premium increase in 1980-2015. </div>
+    <div class="expand-content" style="display: none; font-size:90%">This paper develops a measure of Capital-Embodied Innovation (CEI). The measure counts the number of patents applied to different capital goods by matching patent descriptions from the USPTO to capital goods descriptions from Wikipedia. Using occupation-level variations on the sets of capital goods from O*NET, we document that the CEI measure is smaller for routine occupations. Furthermore, we highlight the heterogeneous effects of CEI across the capital good-occupation relationship. When the capital good performs the same function as the occupational task (task-substituting capital), the CEI on the capital good reduces the relative demand for labor. In case the capital good performs a different function than the occupation tasks (task-complementing capital), the CEI raises relative demand for labor. Abstract occupations have disproportionately more CEI on task-complementing capital than non-abstract occupations. A model-based counterfactual implies that the employment growth between the 1980s and the 2010s would be 33% less biased towards abstract task occupations without the CEI. The degree of job polarization and occupational wage inequality would have been lower without the CEI. </div>
   </div>
 
 <br>
