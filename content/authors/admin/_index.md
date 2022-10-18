@@ -23,4 +23,4 @@ Curriculum Vitae: {{% staticref "uploads/CV_Shim.pdf" %}}CV{{% /staticref %}}
 
 <ul><li>M﻿acroeconomics, Growth </li>
 
-<li>International Trade, Development, Innovation </li> </ul>
+<li>International Trade, Innovation, Development </li> </ul>
