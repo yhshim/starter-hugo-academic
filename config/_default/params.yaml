@@ -110,6 +110,8 @@ plugins_js: []
 avatar:
   gravatar: false
   shape: square
+  height: 100px;
+  width: 100px
 publications:
   date_format: January 2006
   citation_style: apa
