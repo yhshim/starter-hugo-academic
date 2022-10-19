@@ -1,6 +1,8 @@
 ---
 title: Younghun Shim
-role: <p> Ph.D. Candidate in Economics,</p> <p>University of Chicago</p>
+role: " <style> p {   display: block;   margin-top: 0.5em;   margin-bottom:
+  0.5em;   margin-left: 0;   margin-right: 0; } </style> <p> Ph.D. Candidate in
+  Economics,</p> <p>University of Chicago</p>"
 avatar_filename: https://younghunshim.com/uploads/AVATAR.png
 bio: My research interests include Macroeconomics, Growth, Innovation, and
   International Trade
