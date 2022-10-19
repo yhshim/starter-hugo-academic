@@ -11,9 +11,9 @@ email: yhshim@uchicago.edu
 superuser: true
 highlight_name: true
 ---
+<﻿br>
+
 <meta name=theme-color content="#2962ff">
-
-
 
 Welcome to my website! I am currently a 6th year Ph.D. student in Economics at the University of Chicago. I will be on the job market during 2022-2023 academic year.
 
