@@ -1,6 +1,6 @@
 ---
 title: Younghun Shim
-role: " <style> p {   display: block;   margin-top: 0.5em;   margin-bottom:
+role: " <style> p {   display: block;   margin-top: 0.1em;   margin-bottom:
   0.5em;   margin-left: 0;   margin-right: 0; } </style> <p> Ph.D. Candidate in
   Economics,</p> <p>University of Chicago</p>"
 avatar_filename: https://younghunshim.com/uploads/AVATAR.png
