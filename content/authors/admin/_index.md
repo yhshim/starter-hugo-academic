@@ -1,6 +1,7 @@
 ---
 title: Younghun Shim
-role: <p> Ph.D. Candidate in Economics,</p> <p>University of Chicago</p>
+role: '<p> Ph.D. Candidate in Economics,</p> <p>University of
+  Chicago</p><p>Email : <font color="#5040ae">yhshim@uchicago.edu </font></p>'
 avatar_filename: https://younghunshim.com/uploads/AVATAR.png
 bio: My research interests include Macroeconomics, Growth, Innovation, and
   International Trade
@@ -27,8 +28,6 @@ Welcome to my website! I am currently a 6th year Ph.D. student in Economics at t
 
 <li>International Trade, Innovation, Development </li> </ul>
 
- ﻿ ﻿<br>
-
-Email : <font color="#5040ae">yhshim@uchicago.edu </font>
+ ﻿ <br>
 
 Curriculum Vitae: {{% staticref "uploads/CV_Shim.pdf" %}}CV{{% /staticref %}}
