@@ -13,16 +13,24 @@ highlight_name: true
 ---
 <meta name=theme-color content="#2962ff">
 
- ﻿<br> 
+ ﻿<br>
 
-Welcome to my website! I am currently a 6th year Ph.D. student in Economics at the University of Chicago. I will be on the job market during 2022-2023 academic year.
+Welcome to my website!
 
-Email : <font color="#5040ae">yhshim@uchicago.edu </font>
+ I am currently a 6th year Ph.D. student in Economics at the University of Chicago.
 
-Curriculum Vitae: {{% staticref "uploads/CV_Shim.pdf" %}}CV{{% /staticref %}}
+ I will be on the job market during 2022-2023 academic year.
+
+ ﻿<br>
 
 **R﻿esearch Interests**
 
 <ul><li>M﻿acroeconomics, Growth </li>
 
 <li>International Trade, Innovation, Development </li> </ul>
+
+ ﻿ ﻿<br>
+
+Email : <font color="#5040ae">yhshim@uchicago.edu </font>
+
+Curriculum Vitae: {{% staticref "uploads/CV_Shim.pdf" %}}CV{{% /staticref %}}
