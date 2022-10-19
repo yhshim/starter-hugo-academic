@@ -13,7 +13,7 @@ highlight_name: true
 ---
 <meta name=theme-color content="#2962ff">
 
-<hr style="height:0.5px; visibility:hidden;" />
+<hr style="height:0.01px; visibility:hidden;" />
 
 Welcome to my website! I am currently a 6th year Ph.D. student in Economics at the University of Chicago. I will be on the job market during 2022-2023 academic year.
 
