@@ -13,13 +13,16 @@ highlight_name: true
 ---
 <meta name=theme-color content="#2962ff">
 
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
  ﻿<br>
 
-Welcome to my website!
-
- I am currently a 6th year Ph.D. student in Economics at the University of Chicago.
-
- I will be on the job market during 2022-2023 academic year.
+<div>Welcome to my website! I am currently a 6th year Ph.D. student in Economics at the University of Chicago. I will be on the job market during 2022-2023 academic year.</div>
 
  ﻿<br>
 
