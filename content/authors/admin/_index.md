@@ -23,7 +23,7 @@ Welcome to my website! I am currently a 6th year Ph.D. student in Economics at t
 
 **R﻿esearch Interests**
 
-<ul><li>M﻿acroeconomics, Growth </li>
+<ul><li>M﻿acroeconomics, Economic Growth </li>
 
 <li>International Trade, Innovation, Development </li> </ul>
 
