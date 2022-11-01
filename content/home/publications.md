@@ -59,7 +59,7 @@ design:
 
 **Technology Adoption and Late Industrialization** <font size="4">
 
-(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) {{% staticref "uploads/Choi_Shim_Mar.pdf" %}}<u>Latest Draft</u>{{% /staticref %}} <br><a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization"><u>STEG Working Paper 033</u></a>  </font>
+(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) {{% staticref "uploads/Choi_Shim_Mar.pdf" %}}Latest Draft{{% /staticref %}}&nbsp;&nbsp;     <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a>  </font>  
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
