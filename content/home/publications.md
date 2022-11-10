@@ -42,7 +42,7 @@ design:
 
 **How Task-Biased is Capital-Embodied Innovation?**
 
- <font size="4">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) New draft coming soon!</font>
+ <font size="4">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) &nbsp;&nbsp;<a href="https://younghunshim.com/uploads/PS_CEI.pdf">Latest Draft</a></font>
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
