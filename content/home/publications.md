@@ -25,7 +25,7 @@ design:
 
 <font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/Shim_JMP.pdf">Latest Draft</a><br> <a href="https://steg.cepr.org/funding/small-phd-research-grants-srgs">STEG Small Research Grant</a>
 
-*P﻿resented at: University of Chicago, ESAM2022, AMES2022, Federal Reserve Bank of St. Louis Ph.D. Students Workshop, Young Economist Symposium 2022, Workshop on International Trade and Intellectual Property Rights, Midwest International Trade Conference Fall 2022, KAEA Job Market Conference 2022* </font>
+*P﻿resented at: University of Chicago, ESAM2022, AMES2022, Federal Reserve Bank of St. Louis Ph.D. Students Workshop, Young Economist Symposium 2022, Workshop on International Trade and Intellectual Property Rights, Midwest International Trade Conference Fall 2022, KAEA Job Market Conference 2022, Midwest Macro Meeting 2022* </font>
 
   <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
