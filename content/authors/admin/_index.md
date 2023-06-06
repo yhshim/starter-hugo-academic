@@ -26,6 +26,8 @@ Welcome to my website! I will join International Monetary Fund as an economist t
 
 <li>Innovation, Development </li>
 
+<﻿br>
+
 Email : <font color="#5040ae">yhshim@uchicago.edu </font>
 
 Curriculum Vitae: {{% staticref "uploads/Shim_CV.pdf" %}}CV{{% /staticref %}}
