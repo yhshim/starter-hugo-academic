@@ -24,7 +24,7 @@ Welcome to my website! I will join International Monetary Fund as an economist t
 
 <ul><li>M﻿acroeconomics, Economic Growth, International Trade </li> 
 
-<hr style="height:10px; visibility:hidden;" />
+<ul><li>Innovation, Development </li>
 
 Email : <font color="#5040ae">yhshim@uchicago.edu </font>
 
