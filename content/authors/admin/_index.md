@@ -22,9 +22,7 @@ Welcome to my website! I will join International Monetary Fund as an economist t
 
 **R﻿esearch Interests**
 
-<ul><li>M﻿acroeconomics, Economic Growth </li>
-
-<li>International Trade, Innovation, Development </li> </ul>
+<ul><li>M﻿acroeconomics, Economic Growth, International Trade </li> 
 
 <hr style="height:10px; visibility:hidden;" />
 
