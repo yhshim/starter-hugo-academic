@@ -4,8 +4,7 @@ role: " <style> p {   display: block;   margin-top: 0.1em;   margin-bottom:
   0.1em;   margin-left: 0;   margin-right: 0; } </style> <p> Ph.D. Candidate in
   Economics,</p> <p>University of Chicago</p>"
 avatar_filename: avatar.jpg
-bio: My research interests include Macroeconomics, Growth, Innovation, and
-  International Trade
+bio: My research interests include Macroeconomics, Growth, and International Trade
 interests: []
 social: []
 organizations: []
@@ -17,7 +16,7 @@ highlight_name: true
 
 <hr style="height:0.01px; visibility:hidden;" />
 
-Welcome to my website! I am currently a 6th year Ph.D. student in Economics at the University of Chicago. I will be on the job market during 2022-2023 academic year.
+Welcome to my website! I will join International Monetary Fund as an economist this fall. I received my PhD in Economics from the University of Chicago in June 2023. 
 
 <hr style="height:10px; visibility:hidden;" />
 
