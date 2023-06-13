@@ -16,7 +16,7 @@ highlight_name: true
 
 <hr style="height:0.01px; visibility:hidden;" />
 
-Welcome to my website! I will join International Monetary Fund as an economist this fall. I received my PhD in Economics from the University of Chicago in June 2023. 
+Welcome to my website! I will join Development Macroeconomics Research Division at the International Monetary Fund as an economist this fall. I received my PhD in Economics from the University of Chicago in June 2023. 
 
 <hr style="height:10px; visibility:hidden;" />
 
