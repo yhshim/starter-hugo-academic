@@ -16,7 +16,7 @@ highlight_name: true
 
 <hr style="height:0.01px; visibility:hidden;" />
 
-Welcome to my website! I will join Development Macroeconomics Research Division at the International Monetary Fund as an economist this fall. I received my PhD in Economics from the University of Chicago in June 2023. 
+Welcome to my website! I am an economist in Development Macroeconomics Research Division at the International Monetary Fund. I received my PhD in Economics from the University of Chicago in June 2023. 
 
 <hr style="height:10px; visibility:hidden;" />
 
@@ -26,6 +26,6 @@ Welcome to my website! I will join Development Macroeconomics Research Division 
 
 <li>Innovation, Development </li></ul>
 
-Email : <font color="#5040ae">yhshim@uchicago.edu </font>
+Email : <font color="#5040ae">younghun.shim.econ@gmail.com </font>
 
 Curriculum Vitae: {{% staticref "uploads/Shim_CV.pdf" %}}CV{{% /staticref %}}
