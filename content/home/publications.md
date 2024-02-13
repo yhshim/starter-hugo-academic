@@ -23,7 +23,7 @@ design:
 
 **Superstars or Supervillains? Large Firms in the South Korean Growth Miracle**
 
-<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft</a><br>
+<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft (February 2024)</a><br>
 
 </font>
 
@@ -42,7 +42,7 @@ design:
 
 **From Adoption to Innovation: State-Dependent Technology Policy in Developing Countries (JMP)** 
 
-<font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/Shim_JMP.pdf">Latest Draft</a><br> <a href="https://steg.cepr.org/projects/imitator-innovator-how-do-firms-grow-developing-countries">STEG Small Research Grant</a>
+<font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/Shim_JMP.pdf">Latest Draft (September 2023)</a><br> <a href="https://steg.cepr.org/projects/imitator-innovator-how-do-firms-grow-developing-countries">STEG Small Research Grant</a>
 
 </font>
 
@@ -61,7 +61,7 @@ design:
 
 **How Task-Biased is Capital-Embodied Innovation?**
 
- <font size="4">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) &nbsp;&nbsp;<a href="https://younghunshim.com/uploads/draft_v5.pdf">Latest Draft</a></font>
+ <font size="4">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) &nbsp;&nbsp;<a href="https://younghunshim.com/uploads/draft_v5.pdf">Latest Draft (July 2023)</a></font>
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
@@ -78,7 +78,7 @@ design:
 
 **Technology Adoption and Late Industrialization** <font size="4">
 
-(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://jaedochoi.github.io/Web/Choi_JMP.pdf" %}}Latest Draft{{% /staticref %}}&nbsp;&nbsp;     <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a>  </font>  
+(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://jaedochoi.github.io/Web/Choi_JMP.pdf" %}}Latest Draft (October 2023){{% /staticref %}}&nbsp;&nbsp;     <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a>  </font>  
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
