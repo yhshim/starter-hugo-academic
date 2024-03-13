@@ -42,7 +42,7 @@ design:
 
 **From Adoption to Innovation: State-Dependent Technology Policy in Developing Countries (JMP)** 
 
-<font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/Shim_JMP.pdf">Latest Draft </a>(September 2023) <br> <a href="https://steg.cepr.org/projects/imitator-innovator-how-do-firms-grow-developing-countries">STEG Small Research Grant</a>
+<font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/Shim_JMP.pdf">Latest Draft </a>(March 2024) <br> <a href="https://steg.cepr.org/projects/imitator-innovator-how-do-firms-grow-developing-countries">STEG Small Research Grant</a>
 
 </font>
 
