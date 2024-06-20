@@ -40,7 +40,9 @@ design:
 
 <br>
 
-**From Adoption to Innovation: State-Dependent Technology Policy in Developing Countries (JMP)** 
+**From Adoption to Innovation: State-Dependent Technology Policy in Developing Countries (JMP)** <br>
+
+R﻿eject and Resubmit, ***American Economic Review***
 
 <font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024) <br>  <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  </font>  
 
