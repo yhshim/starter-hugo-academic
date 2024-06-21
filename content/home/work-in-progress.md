@@ -3,6 +3,7 @@ widget: pages
 widget_id: Work in Progress
 headless: true
 weight: 30
+title: Work in Progress
 active: true
 design:
   columns: "2"
