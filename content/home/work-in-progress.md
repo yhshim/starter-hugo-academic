@@ -1,8 +1,8 @@
 ---
-widget: Research
+widget: pages
 widget_id: Work in Progress
 headless: true
-weight: 60
+weight: 30
 active: true
 design:
   columns: "2"
