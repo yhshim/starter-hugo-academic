@@ -23,7 +23,7 @@ design:
 
 **Superstars or Supervillains? Large Firms in the South Korean Growth Miracle**
 
-<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(February 2024)<br>
+<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(June 2024)<br>
 
 </font>
 
