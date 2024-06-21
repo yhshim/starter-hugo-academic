@@ -2,7 +2,7 @@
 widget: Research
 widget_id: Work in Progress
 headless: true
-weight: 20
+weight: 60
 active: true
 design:
   columns: "2"
