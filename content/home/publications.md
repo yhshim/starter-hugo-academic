@@ -23,7 +23,7 @@ design:
 
 **Superstars or Supervillains? Large Firms in the South Korean Growth Miracle**
 
-<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(June 2024)<br><a href="https://www.nber.org/papers/w32648">NBER Working Paper 32648</a> <a href="https://cepr.org/publications/dp19207">CEPR Discussion Paper 19207</a>
+<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(June 2024)<br><a href="https://www.nber.org/papers/w32648">NBER Working Paper 32648</a> <a href="https://cepr.org/publications/dp19207">CEPR Discussion Paper 19207</a> <br> Press: <a href="https://www.mk.co.kr/en/economy/11074598">Maeil Business Newspaper</a> <br>Coverage: <a href="https://marginalrevolution.com/marginalrevolution/2024/07/large-firms-in-the-south-korean-growth-miracle.html">Marginal Revolution</a>
 
 </font>
 
