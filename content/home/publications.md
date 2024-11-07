@@ -63,7 +63,7 @@ design:
 
 **Heterogeneous Effects of Capital-Embodied Innovation on Labor Market**
 
- <font size="4">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) &nbsp;&nbsp;<a href="https://younghunshim.com/uploads/PS_CEI.pdf">Latest Draft </a>(May 2024)</font>
+ <font size="4">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) &nbsp;&nbsp;<a href="https://younghunshim.com/uploads/PS_CEI.pdf">Latest Draft </a>(November 2024)</font>
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
