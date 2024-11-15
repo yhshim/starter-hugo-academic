@@ -73,7 +73,7 @@ design:
       </span>
     </div>
     <div class="expand-content" style="display: none; font-size:90%;text-align: justify;
-  text-justify: inter-word">This paper develops an occupation-level measure of Capital-Embodied Innovation (CEI) by matching patents with capital goods based on their text similarity. The impact of CEI on labor demand is heterogeneous, depending on the similarity between capital and occupational tasks. Specifically, CEI associated with task-similar capital reduces the relative labor demand, whereas CEI related to task-dissimilar capital raises it. Between 1980 and 2015, capital used by high-wage occupations experienced more innovations in task-dissimilar capital and fewer in task-similar capital. CEI can explain 51% of the relative wage growth in high-wage occupations and significantly contributes to routine- and abstract-biased labor market changes. </div>
+  text-justify: inter-word">This paper develops an occupation-level measure of Capital-Embodied Innovation (CEI) by matching patents with capital goods based on their text similarity. The impact of CEI on labor demand is heterogeneous, depending on the similarity between capital and occupational tasks. Specifically, CEI associated with task-similar capital reduces the relative labor demand, whereas CEI related to task-dissimilar capital raises it. Between 1980 and 2015, abstract and non-routine occupations experienced more innovations in task-dissimilar capital and fewer in task-similar capital. CEI can explain a significant fraction of the task-biased labor market changes and the decline in labor share </div>
   </div>
 
 <br>
