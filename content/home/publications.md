@@ -78,7 +78,9 @@ design:
 
 <br>
 
-**Industrialization and the Big Push: Theory and Evidence from South Korea** <font size="4">
+**Industrialization and the Big Push: Theory and Evidence from South Korea**
+
+ <font size="4">
 
 (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(October 2024) <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a>  ﻿
 
