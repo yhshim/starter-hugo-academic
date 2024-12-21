@@ -44,7 +44,7 @@ design:
 
 <font size="4"> R﻿eject and Resubmit, ***American Economic Review***
 
- (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024) <br>  <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105">IMF working paper 552105</a></font>  
+ (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024) <br>  <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105">IMF working paper 2024/154</a></font>  
 
 </font>
 
@@ -82,7 +82,7 @@ design:
 
  <font size="4">
 
-(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(October 2024) <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a>  ﻿
+(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(October 2024) <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a>  ﻿<a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-2024/259">IMF working paper 2024/154</a></font>  
 
 (Previous circulated as "Technology Adoption and Late Industrialization") </font> 
 
