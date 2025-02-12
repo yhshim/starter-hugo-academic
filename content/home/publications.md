@@ -82,7 +82,7 @@ design:
 
  <font size="4">
 
-(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(October 2024) <br> 
+(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(February 2025) <br> 
 
 <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a> ﻿<a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545">IMF working paper 2024/154</a></font>  
 
