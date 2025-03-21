@@ -21,6 +21,26 @@ design:
 ---
 <meta name="theme-color" content="#2962ff">
 
+**Did US Multinationals Transfer Too Much Technology to China?**
+
+<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://sites.google.com/umich.edu/georgecui/home">George Cui</a>, <a href="https://sites.wustl.edu/yshin/"> Yongseok Shin</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CCSS_JV.pdf">Latest Draft </a>(Mar 2025)
+
+  <div class="expand">
+    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+      <i style="font-size:75%; color:#708090" class="fas fa-chevron-right"></i>
+      <span style="font-size:90%; color:#708090">
+	<b> Abstract </b>
+      </span>
+    </div>
+    <div class="expand-content" style="display: none; font-size:90%;text-align: justify;
+  text-justify: inter-word"> Joint ventures provide US firms with access to the Chinese market and cheaper labor, but they also facilitate knowledge spillovers to their partners and other local firms, thereby intensifying future competition from Chinese firms. Although US firms take into account this spillover effect
+in their joint venture decisions, they do not consider the impact on other US firms. Consequently, there may be over-investment in joint ventures relative to the social optimum for the US. In line with this idea, we establish three novel empirical facts. First, Chinese firms entering into joint ventures experienced growth in size, exports, and technological proximity to their US partners. Second, in industries with a higher number of joint ventures, even non-participating Chinese firms grew
+larger and achieved technological advancements. Third, US firms in these industries experienced negative impacts, including declines in size, exports, and innovation. We develop a two-country
+growth model in which oligopolistic firms make decisions regarding innovation and joint ventures. Our quantitative analysis demonstrates that leading US firms tend to over-invest in joint ventures. Banning joint ventures increases welfare in the US by 1 percent, with short-run losses outweighed by long-run gains. The policy reduces welfare in China by more than 9 percent, as it delays Chinese firms’ productivity growth. </div>
+  </div>
+
+<br>
+
 **Superstars or Supervillains? Large Firms in the South Korean Growth Miracle**
 
 <font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(Feb 2025)<br><a href="https://www.nber.org/papers/w32648">NBER Working Paper 32648</a> <a href="https://cepr.org/publications/dp19207">CEPR Discussion Paper 19207</a> <br> Press: <a href="https://www.mk.co.kr/en/economy/11074598">Maeil Business Newspaper</a> <br>Coverage: <a href="https://marginalrevolution.com/marginalrevolution/2024/07/large-firms-in-the-south-korean-growth-miracle.html">Marginal Revolution</a>
