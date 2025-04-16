@@ -23,7 +23,7 @@ design:
 
 **Did US Multinationals Transfer Too Much Technology to China?**
 
-<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://sites.google.com/umich.edu/georgecui/home">George Cui</a>, <a href="https://sites.wustl.edu/yshin/"> Yongseok Shin</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CCSS_JV.pdf">Latest Draft </a>(Mar 2025)
+<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://sites.google.com/umich.edu/georgecui/home">George Cui</a>, <a href="https://sites.wustl.edu/yshin/"> Yongseok Shin</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CCSS_JV.pdf">Latest Draft </a>(Mar 2025)</font>
 
   <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
