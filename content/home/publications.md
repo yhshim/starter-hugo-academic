@@ -100,7 +100,7 @@ growth model in which oligopolistic firms make decisions regarding innovation an
 
 **Industrialization and the Big Push: Theory and Evidence from South Korea**
 
- <font size="4"><br>R﻿evise and Resubmit, ***Review of Economics and Statistics*** (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(February 2025) <br> 
+ <font size="4">R﻿evise and Resubmit, ***Review of Economics and Statistics*** (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp; {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(February 2025) <br> 
 
 <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a> ﻿<a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545">IMF working paper 2024/154</a></font>  
 
