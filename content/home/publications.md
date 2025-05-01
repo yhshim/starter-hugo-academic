@@ -64,7 +64,7 @@ growth model in which oligopolistic firms make decisions regarding innovation an
 
 <font size="4"> R﻿eject and Resubmit, ***American Economic Review***
 
- (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024) <br>  <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105">IMF working paper 2024/154</a></font>  
+ (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024)   <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105">IMF working paper 2024/154</a></font>  
 
 </font>
 
