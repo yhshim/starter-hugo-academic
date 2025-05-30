@@ -19,11 +19,11 @@ content:
 design:
   view: 4
 ---
-<meta name="theme-color" content="#2962ff">
+<meta name="theme-color" content="#2962ff"><font size="4">
 
 **Did US Multinationals Transfer Too Much Technology to China?**
 
-<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://sites.google.com/umich.edu/georgecui/home">George Cui</a>, <a href="https://sites.wustl.edu/yshin/"> Yongseok Shin</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CCSS_JV.pdf">Latest Draft </a>(Mar 2025)<font size="3"></font>
+ (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://sites.google.com/umich.edu/georgecui/home">George Cui</a>, <a href="https://sites.wustl.edu/yshin/"> Yongseok Shin</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CCSS_JV.pdf">Latest Draft </a>(Mar 2025)<font size="3"></font>
 
   <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
@@ -39,11 +39,11 @@ larger and achieved technological advancements. Third, US firms in these industr
 growth model in which oligopolistic firms make decisions regarding innovation and joint ventures. Our quantitative analysis demonstrates that leading US firms tend to over-invest in joint ventures. Banning joint ventures increases welfare in the US by 1 percent, with short-run losses outweighed by long-run gains. The policy reduces welfare in China by more than 9 percent, as it delays Chinese firms’ productivity growth. </div>
   </div>
 
-<br>
+<br><font size="4">
 
 **Superstars or Supervillains? Large Firms in the South Korean Growth Miracle**
 
-<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(Feb 2025)<br><font size="3"><a href="https://www.nber.org/papers/w32648">NBER Working Paper 32648</a> <a href="https://cepr.org/publications/dp19207">CEPR Discussion Paper 19207</a> <br> Press: <a href="https://www.mk.co.kr/en/economy/11074598">Maeil Business Newspaper</a> Coverage: <a href="https://marginalrevolution.com/marginalrevolution/2024/07/large-firms-in-the-south-korean-growth-miracle.html">Marginal Revolution</a>
+ (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(Feb 2025)<br><font size="3"><a href="https://www.nber.org/papers/w32648">NBER Working Paper 32648</a> <a href="https://cepr.org/publications/dp19207">CEPR Discussion Paper 19207</a> <br> Press: <a href="https://www.mk.co.kr/en/economy/11074598">Maeil Business Newspaper</a> Coverage: <a href="https://marginalrevolution.com/marginalrevolution/2024/07/large-firms-in-the-south-korean-growth-miracle.html">Marginal Revolution</a>
 
 </font>
 
@@ -58,11 +58,11 @@ growth model in which oligopolistic firms make decisions regarding innovation an
   text-justify: inter-word"> We quantify the contribution of the largest firms to South Korea's economic performance since 1970. Using firm-level historical data, we document a novel fact: firm concentration rose substantially during the growth miracle period. To understand whether the increased importance of large firms contributed positively or negatively to the South Korean growth miracle, we build a quantitative heterogeneous firm small open economy model. Our framework accommodates a variety of causes and consequences of (changes in) firm concentration: productivity, distortions, selection into exporting, and oligopolistic and oligopsonistic market power in domestic goods and labor markets. The model is implemented directly on the firm-level data and inverted to recover the drivers of changing concentration. We find that most of the increased concentration is attributable to higher productivity growth of the largest firms. Shutting down differential productivity growth of the top 3 firms within each sector would have decreased firm concentration, but nonetheless would have reduced welfare by 2%. Differential distortions and foreign market access of the  largest firms played a more limited role in the trends in concentration and had a smaller welfare impact. Thus, the largest Korean firms were superstars rather than supervillains. </div>
   </div>
 
-<br>
+<br><font size="4"> 
 
 **From Adoption to Innovation: State-Dependent Technology Policy in Developing Countries (JMP)** <br>
 
-<font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿eject and Resubmit, <b> ***American Economic Review*** </b>&nbsp;&nbsp;<br><a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024) <font size="3">  <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105">IMF working paper 2024/154</a></font>  
+(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿eject and Resubmit, <b> ***American Economic Review*** </b>&nbsp;&nbsp;<br><a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024) <font size="3">  <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105">IMF working paper 2024/154</a></font>  
 
 </font>
 
@@ -77,11 +77,11 @@ growth model in which oligopolistic firms make decisions regarding innovation an
   text-justify: inter-word"> Should policymakers in developing countries prioritize foreign technology adoption over domestic innovation? How might this depend on development stages? Using historical technology transfer data from South Korea, we find that greater productivity gaps with foreign firms correlate with larger productivity growth after adoption, despite lower fees. Furthermore, non-adopters increased patent citations to foreign sellers, suggesting knowledge spillovers. Motivated by these findings, we build a two-country growth model with innovation and adoption. As the gaps narrow, productivity gains and spillovers from adoption diminish and foreign sellers strategically raise fees due to intensified competition, which renders adoption subsidies less effective. Korea’s shift from adoption to innovation subsidies substantially contributed to growth and welfare. We also explore the optimal policy and its interaction with import tariffs. </div>
   </div>
 
-<br>
+<br> <font size="4">
 
 **Heterogeneous Effects of Capital-Embodied Innovation on Labor Market**
 
- <font size="4">(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) &nbsp;&nbsp;<a href="https://younghunshim.com/uploads/PS_CEI.pdf">Latest Draft </a>(November 2024)</font>
+(with <a href="http://www.hyejinpark.net/">Hyejin Park</a>) &nbsp;&nbsp;<a href="https://younghunshim.com/uploads/PS_CEI.pdf">Latest Draft </a>(November 2024)</font>
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
@@ -94,11 +94,11 @@ growth model in which oligopolistic firms make decisions regarding innovation an
   text-justify: inter-word">This paper develops an occupation-level measure of Capital-Embodied Innovation (CEI) by matching patents with capital goods based on their text similarity. The impact of CEI on labor demand is heterogeneous, depending on the similarity between capital and occupational tasks. Specifically, CEI associated with task-similar capital reduces the relative labor demand, whereas CEI related to task-dissimilar capital raises it. Between 1980 and 2015, abstract and non-routine occupations experienced more innovations in task-dissimilar capital and fewer in task-similar capital. CEI can explain a significant fraction of the task-biased labor market changes and the decline in labor share. </div>
   </div>
 
-<br>
+<br> <font size="4">
 
 **Industrialization and the Big Push: Theory and Evidence from South Korea**
 
- <font size="4">(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿evise and Resubmit, <b> ***Review of Economics and Statistics*** </b>&nbsp;&nbsp;<br> {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(February 2025) <font size="3"><a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a> ﻿<a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545">IMF working paper 2024/259</a></font>  
+(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿evise and Resubmit, <b> ***Review of Economics and Statistics*** </b>&nbsp;&nbsp;<br> {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(February 2025) <font size="3"><a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a> ﻿<a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545">IMF working paper 2024/259</a></font>  
 
 (Previous circulated as "Technology Adoption and Late Industrialization") </font> 
 
