@@ -23,7 +23,7 @@ design:
 
 **Did US Multinationals Transfer Too Much Technology to China?**
 
-<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://sites.google.com/umich.edu/georgecui/home">George Cui</a>, <a href="https://sites.wustl.edu/yshin/"> Yongseok Shin</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CCSS_JV.pdf">Latest Draft </a>(Mar 2025)</font>
+<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://sites.google.com/umich.edu/georgecui/home">George Cui</a>, <a href="https://sites.wustl.edu/yshin/"> Yongseok Shin</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CCSS_JV.pdf">Latest Draft </a>(Mar 2025)</font><font size="3">
 
   <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
@@ -100,7 +100,7 @@ growth model in which oligopolistic firms make decisions regarding innovation an
 
  <font size="4">(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿evise and Resubmit, <b> ***Review of Economics and Statistics*** </b>&nbsp;&nbsp;<br> {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(February 2025) <font size="3"><a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a> ﻿<a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545">IMF working paper 2024/259</a></font>  
 
-<font size="2">(Previous circulated as "Technology Adoption and Late Industrialization") </font> 
+(Previous circulated as "Technology Adoption and Late Industrialization") </font> 
 
  <div class="expand">
     <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
