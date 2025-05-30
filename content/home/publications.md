@@ -43,7 +43,7 @@ growth model in which oligopolistic firms make decisions regarding innovation an
 
 **Superstars or Supervillains? Large Firms in the South Korean Growth Miracle**
 
-<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(Feb 2025)<br><a href="https://www.nber.org/papers/w32648">NBER Working Paper 32648</a> <a href="https://cepr.org/publications/dp19207">CEPR Discussion Paper 19207</a> <br> Press: <a href="https://www.mk.co.kr/en/economy/11074598">Maeil Business Newspaper</a> Coverage: <a href="https://marginalrevolution.com/marginalrevolution/2024/07/large-firms-in-the-south-korean-growth-miracle.html">Marginal Revolution</a>
+<font size="4"> (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://alevchenko.com">Andrei A. Levchenko</a>, <a href="https://www.druzic.com"> Dimitrije Ruzic</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CLRS.pdf">Latest Draft </a>(Feb 2025)<br><font size="3"><a href="https://www.nber.org/papers/w32648">NBER Working Paper 32648</a> <a href="https://cepr.org/publications/dp19207">CEPR Discussion Paper 19207</a> <br> Press: <a href="https://www.mk.co.kr/en/economy/11074598">Maeil Business Newspaper</a> Coverage: <a href="https://marginalrevolution.com/marginalrevolution/2024/07/large-firms-in-the-south-korean-growth-miracle.html">Marginal Revolution</a>
 
 </font>
 
@@ -62,7 +62,7 @@ growth model in which oligopolistic firms make decisions regarding innovation an
 
 **From Adoption to Innovation: State-Dependent Technology Policy in Developing Countries (JMP)** <br>
 
-<font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿eject and Resubmit, ***American Economic Review*** &nbsp;&nbsp;<br><a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024)   <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105">IMF working paper 2024/154</a></font>  
+<font size="4"> (with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿eject and Resubmit, ***American Economic Review*** &nbsp;&nbsp;<br><a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf">Latest Draft </a>(March 2024) <font size="3">  <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries">STEG Working Paper 091</a>  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105">IMF working paper 2024/154</a></font>  
 
 </font>
 
@@ -98,7 +98,7 @@ growth model in which oligopolistic firms make decisions regarding innovation an
 
 **Industrialization and the Big Push: Theory and Evidence from South Korea**
 
- <font size="4">(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿evise and Resubmit, ***Review of Economics and Statistics*** &nbsp;&nbsp;<br> {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(February 2025) <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a> ﻿<a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545">IMF working paper 2024/259</a></font>  
+ <font size="4">(with <a href="http://www.jaedochoi.com/">Jaedo Choi</a>) R﻿evise and Resubmit, ***Review of Economics and Statistics*** &nbsp;&nbsp;<br> {{% staticref "https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" %}}Latest Draft {{% /staticref %}}&nbsp;&nbsp;(February 2025) <font size="3"><a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization">STEG Working Paper 033</a> ﻿<a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545">IMF working paper 2024/259</a></font>  
 
 (Previous circulated as "Technology Adoption and Late Industrialization") </font> 
 
