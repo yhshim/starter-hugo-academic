@@ -21,7 +21,7 @@ design:
 ---
 <meta name="theme-color" content="#2962ff"><font size="4">
 
-**Did US Multinationals Transfer Too Much Technology to China?**
+**The Dynamics of Technology Transfer: Multinational Investment in China and Rising Global Competition**
 
  (with <a href="http://www.jaedochoi.com">Jaedo Choi</a>, <a href="https://sites.google.com/umich.edu/georgecui/home">George Cui</a>, <a href="https://sites.wustl.edu/yshin/"> Yongseok Shin</a>)&nbsp;&nbsp;<a href="https://younghunshim.com/uploads/CCSS_JV.pdf">Latest Draft </a>(Mar 2025)<font size="3"></font>
 
