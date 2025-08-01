@@ -20,19 +20,23 @@ highlight_name: true
   <meta name="theme-color" content="#2962ff" />
   <title>Home — Younghun Shim</title>
   <style>
-    /\* Typography (much larger) \*/
+    /\\* Typography (much larger) \\*/
     body{
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
       color:#111; line-height:1.75; margin:0;
-      padding: 4.5rem 2rem 2rem; /\* extra top space (Option A) \*/
-      font-size:22px; /\* much larger base text \*/
+      padding: 4.5rem 2rem 2rem; /\\* extra top space (Option A) \\*/
+      font-size:22px; /\\* much larger base text \\*/
     }
-    .lead{ font-size:1.25rem; margin:.35rem 0 1.25rem; }   /\* \~27.5px \*/
-    .heading{ display:block; font-weight:700; font-size:1.35rem; margin:1.1rem 0 .5rem; } /\* \~29.7px \*/
+    .lead{ font-size:1.25rem; margin:.35rem 0 1.25rem; }   /\\* \\~27.5px \\*/
+    .heading{ display:block; font-weight:700; font-size:1.35rem; margin:1.1rem 0 .5rem; } /\\* \\~29.7px \\*/
 
   </style>
 </head>
 <body>
+
+<﻿br>
+
+<﻿br>
 
   <p class="lead">
     Welcome to my website! I am an economist at the International Monetary Fund. I received my PhD in Economics from the University of Chicago
