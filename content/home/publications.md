@@ -37,12 +37,12 @@ design:
     body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"; color: var(--ink); line-height: 1.55; margin: 0; padding: 1rem; }
     .papers { max-width: 860px; margin: 0 auto; }
     .paper { margin: calc(var(--space) * 1.2) 0; padding: 0; }
-    .paper h2 { font-size: 1.35rem; margin: 0 0 .25rem; line-height: 1.3; }
+    .paper h2 { font-size: 1.15rem; margin: 0 0 .25rem; line-height: 1.3; }
     .authors, .status, .links, .note { margin: .25rem 0; font-size: .95rem; color: var(--ink); }
     .status { color: var(--muted); }
     .links a { color: var(--accent); text-decoration: none; }
     .links a:hover, .links a:focus { text-decoration: underline; }
-    .dot { color: #c7cdd6; margin: 0 .35rem; }
+    .dot { color: #c7cdd6; margin: 0 .35rem; 
 
   </style>
 </head>
