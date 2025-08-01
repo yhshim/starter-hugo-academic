@@ -54,10 +54,10 @@ design:
   <section class="paper">
     <h2>The Dynamics of Technology Transfer: Multinational Investment in China and Rising Global Competition</h2>
     <p class="authors">
-      (with
+      with
       <a href="http://www.jaedochoi.com" target="_blank" rel="noopener">Jaedo Choi</a>,
       <a href="https://sites.google.com/umich.edu/georgecui/home" target="_blank" rel="noopener">George Cui</a>,
-      <a href="https://sites.wustl.edu/yshin/" target="_blank" rel="noopener">Yongseok Shin</a>)
+      <a href="https://sites.wustl.edu/yshin/" target="_blank" rel="noopener">Yongseok Shin</a>
     </p>
     <p class="links">
       <a href="https://younghunshim.com/uploads/CCSS_JV.pdf" target="_blank" rel="noopener">Latest draft</a> (June 2025)
@@ -75,10 +75,10 @@ design:
   <section class="paper">
     <h2>Superstars or Supervillains? Large Firms in the South Korean Growth Miracle</h2>
     <p class="authors">
-      (with
+      with
       <a href="http://www.jaedochoi.com" target="_blank" rel="noopener">Jaedo Choi</a>,
       <a href="https://alevchenko.com" target="_blank" rel="noopener">Andrei A. Levchenko</a>,
-      <a href="https://www.druzic.com" target="_blank" rel="noopener">Dimitrije Ruzic</a>)
+      <a href="https://www.druzic.com" target="_blank" rel="noopener">Dimitrije Ruzic</a>
     </p>
     <p class="status">Revise and Resubmit, <em><b>Journal of Political Economy</b></em></p>
     <p class="links">
@@ -107,8 +107,8 @@ design:
   <section class="paper">
     <h2>From Adoption to Innovation: State-Dependent Technology Policy in Developing Countries (JMP)</h2>
     <p class="authors">
-      (with
-      <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>)
+      with
+      <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>
     </p>
     <p class="status">Reject and Resubmit, <em><b>American Economic Review</b></em></p>
     <p class="links">
@@ -131,8 +131,8 @@ design:
   <section class="paper">
     <h2>Heterogeneous Effects of Capital-Embodied Innovation on Labor Market</h2>
     <p class="authors">
-      (with
-      <a href="http://www.hyejinpark.net/" target="_blank" rel="noopener">Hyejin Park</a>)
+      with
+      <a href="http://www.hyejinpark.net/" target="_blank" rel="noopener">Hyejin Park</a>
     </p>
     <p class="links">
       <a href="https://younghunshim.com/uploads/PS_CEI.pdf" target="_blank" rel="noopener">Latest draft</a> (June 2025)
@@ -150,8 +150,8 @@ design:
   <section class="paper">
     <h2>Industrialization and the Big Push: Theory and Evidence from South Korea</h2>
     <p class="authors">
-      (with
-      <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>)
+      with
+      <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>
     </p>
     <p class="status">Revise and Resubmit, <em><b>Review of Economics and Statistics</b></em></p>
     <p class="links">
