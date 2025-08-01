@@ -24,7 +24,7 @@ highlight_name: true
     body{
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
       color:#111; line-height:1.7; margin:0; padding: 5.5rem 1rem 1rem;
-      font-size:18px; /\\\* larger base text \\\*/
+      font-size:28px; /\\\* larger base text \\\*/
     }
     .lead{ font-size:1.15rem; margin:.25rem 0 1.1rem; }
     .heading{ display:block; font-weight:700; font-size:1.2rem; margin:1rem 0 .4rem; }
