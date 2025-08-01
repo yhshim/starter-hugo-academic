@@ -42,13 +42,8 @@ design:
     .status { color: var(--muted); }
     .links a { color: var(--accent); text-decoration: none; }
     .links a:hover, .links a:focus { text-decoration: underline; }
-    details.abstract { margin-top: .5rem; border: 1px solid #e6e8eb; border-radius: .5rem; padding: .5rem .75rem; background: #fafbfc; }
-    details.abstract summary { cursor: pointer; color: var(--muted); font-weight: 600; list-style: none; outline: none; }
-    details.abstract summary::-webkit-details-marker { display: none; }
-    details.abstract summary::before { content: "▶ "; font-size: .9em; color: var(--muted); }
-    details.abstract[open] summary::before { content: "▼ "; }
-    .abstract-content { margin-top: .5rem; font-size: .95rem; text-align: justify; text-justify: inter-word; color: var(--ink); }
     .dot { color: #c7cdd6; margin: 0 .35rem; }
+
   </style>
 </head>
 <body>
@@ -67,9 +62,9 @@ design:
     <p class="links">
       <a href="https://younghunshim.com/uploads/CCSS_JV.pdf" target="_blank" rel="noopener">Latest draft</a> (June 2025)
     </p>
-    <details class="abstract">
+    <details class="abs-details">
       <summary>Abstract</summary>
-      <div class="abstract-content">
+      <div class="abs-abstract">
         US multinationals form joint ventures in China for market access and lower labor costs. However, these ventures transfer knowledge to Chinese partners and local firms, increasing future competition from China. While multinationals take into account these spillovers, they don’t account for the impact on other US firms, potentially leading to over-investment from a US social perspective. We establish three novel empirical facts on spillovers and competition effects. First, Chinese parent firms of joint ventures become larger, export more, and grow technologically similar to their US partners. Second, in industries with more joint ventures, even non-participating Chinese firms grow larger and more technologically advanced. Third, US firms in these industries experience negative impacts on their size, exports, and innovation. We then develop a two-country growth model with oligopolistic competition and endogenous innovation and joint venture decisions. For the US, joint ventures generate short-run gains that are outweighed by long-run losses due to rising competition from China. Large US firms’ profits are higher with joint ventures, at the expense of small firms’ profits and the real wage. Banning joint ventures from the beginning would have raised US welfare by 1.3 percent but reduced China’s by 10 percent, as Chinese firms’ productivity growth is substantially delayed.
       </div>
     </details>
@@ -99,9 +94,9 @@ design:
       Coverage:
       <a href="https://marginalrevolution.com/marginalrevolution/2024/07/large-firms-in-the-south-korean-growth-miracle.html" target="_blank" rel="noopener">Marginal Revolution</a>
     </p>
-    <details class="abstract">
+    <details class="abs-details">
       <summary>Abstract</summary>
-      <div class="abstract-content">
+      <div class="abs-abstract">
         We quantify the contribution of the largest firms to South Korea's economic performance since 1970. Using firm-level historical data, we document a novel fact: firm concentration rose substantially during the growth miracle period. To understand whether the increased importance of large firms contributed positively or negatively to the South Korean growth miracle, we build a quantitative heterogeneous firm small open economy model. Our framework accommodates a variety of causes and consequences of (changes in) firm concentration: productivity, distortions, selection into exporting, and oligopolistic and oligopsonistic market power in domestic goods and labor markets. The model is implemented directly on the firm-level data and inverted to recover the drivers of changing concentration. We find that most of the increased concentration is attributable to higher productivity growth of the largest firms. Shutting down differential productivity growth of the top 3 firms within each sector would have decreased firm concentration, but nonetheless would have reduced welfare by 2%. Differential distortions and foreign market access of the  largest firms played a more limited role in the trends in concentration and had a smaller welfare impact. Thus, the largest Korean firms were superstars rather than supervillains.
       </div>
     </details>
@@ -123,9 +118,9 @@ design:
       <span class="dot">·</span>
       <a href="https://www.imf.org/en/Publications/WP/Issues/2024/07/18/From-Adoption-to-Innovation-State-Dependent-Technology-Policy-in-Developing-Countries-552105" target="_blank" rel="noopener">IMF Working Paper 2024/154</a>
     </p>
-    <details class="abstract">
+    <details class="abs-details">
       <summary>Abstract</summary>
-      <div class="abstract-content">
+      <div class="abs-abstract">
         Should policymakers in developing countries prioritize foreign technology adoption over domestic innovation? How might this depend on development stages? Using historical technology transfer data from South Korea, we find that greater productivity gaps with foreign firms correlate with larger productivity growth after adoption, despite lower fees. Furthermore, non-adopters increased patent citations to foreign sellers, suggesting knowledge spillovers. Motivated by these findings, we build a two-country growth model with innovation and adoption. As the gaps narrow, productivity gains and spillovers from adoption diminish and foreign sellers strategically raise fees due to intensified competition, which renders adoption subsidies less effective. Korea’s shift from adoption to innovation subsidies substantially contributed to growth and welfare. We also explore the optimal policy and its interaction with import tariffs.
       </div>
     </details>
@@ -142,9 +137,9 @@ design:
     <p class="links">
       <a href="https://younghunshim.com/uploads/PS_CEI.pdf" target="_blank" rel="noopener">Latest draft</a> (June 2025)
     </p>
-    <details class="abstract">
+    <details class="abs-details">
       <summary>Abstract</summary>
-      <div class="abstract-content">
+      <div class="abs-abstract">
         This paper develops an occupation-level measure of Capital-Embodied Innovation (CEI) by matching patents with capital goods based on their text similarity. The impact of CEI on labor demand is heterogeneous, depending on the similarity between capital and occupational tasks. Specifically, CEI associated with task-similar capital reduces the relative labor demand, whereas CEI related to task-dissimilar capital raises it. Between 1980 and 2015, abstract and non-routine occupations experienced more innovations in task-dissimilar capital and fewer in task-similar capital. CEI can explain a significant fraction of the task-biased labor market changes and the decline in labor share.
       </div>
     </details>
@@ -167,9 +162,9 @@ design:
       <a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545" target="_blank" rel="noopener">IMF Working Paper 2024/259</a>
     </p>
     <p class="note">(Previously circulated as “Technology Adoption and Late Industrialization”)</p>
-    <details class="abstract">
+    <details class="abs-details">
       <summary>Abstract</summary>
-      <div class="abstract-content">
+      <div class="abs-abstract">
         We study how one-time subsidies for adoption of modern technology drove South Korea's industrialization in the 1970s. Leveraging unique historical data, we provide causal evidence consistent with coordination failures: adoption improved adopters' performance and generated local spillovers, with firms more likely to adopt when other local firms had already adopted. We incorporate these findings into a quantitative model, where the potential for multiple steady states depends on parameters mapped to the causal estimates. In our calibrated model, South Korea's one-time subsidies shifted its economy to a more industrialized steady state, increasing heavy manufacturing's GDP share by 8.6% and export intensity by 16.2%. Larger market access amplifies the effects of these subsidies, as the gains from adoption increase with firms' scale.
       </div>
     </details>
