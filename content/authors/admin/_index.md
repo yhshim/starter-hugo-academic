@@ -37,8 +37,6 @@ highlight_name: true
   <p class="lead">
 
 <br>
-
-<br>
     Welcome to my website! I am an economist at the International Monetary Fund. I received my PhD in Economics from the University of Chicago
     in June 2023.
   </p>
