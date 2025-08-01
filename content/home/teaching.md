@@ -16,5 +16,5 @@ design:
 * E﻿conomic Growth (Winter 2022)
 * T﻿he Elements of Economic Analysis III (Macroeconomics) (Spring 2020)
 * I﻿nternational Economics (Winter 2020)
-* E﻿conomic Policy Analysis (Advanced Macroeconomics): (Fall 2019,2020)
+* E﻿conomic Policy Analysis (Advanced Macroeconomics): (Fall 2019, 2020)
 * E﻿conometrics (Fall 2018)
