@@ -2,7 +2,7 @@
 widget: pages
 widget_id: research
 headless: true
-weight: 20
+weight: 15
 title: Working Papers
 subtitle: ""
 content:
