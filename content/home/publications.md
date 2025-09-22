@@ -60,7 +60,8 @@ design:
       <a href="https://sites.wustl.edu/yshin/" target="_blank" rel="noopener">Yongseok Shin</a>
     </p>
     <p class="links">
-      <a href="https://younghunshim.com/uploads/CCSS_JV.pdf" target="_blank" rel="noopener">Latest draft</a> (September 2025)
+      <a href="https://younghunshim.com/uploads/CCSS_JV.pdf" target="_blank" rel="noopener">Latest draft</a> (September 2025)<span class="dot">·</span>
+      <a href="https://www.nber.org/papers/w34284" target="_blank" rel="noopener">NBER Working Paper 34284</a>
     </p>
     <details class="abs-details">
       <summary>Abstract</summary>
