@@ -163,9 +163,7 @@ design:
   <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization" target="_blank" rel="noopener">STEG Working Paper 033</a>
   <span class="dot">·</span>
   <a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545" target="_blank" rel="noopener">IMF Working Paper 2024/259</a>
-</p>
-<p class="note">(Previously circulated as “Technology Adoption and Late Industrialization”)</p>
-    
+</p> <p class="note">(Previously circulated as “Technology Adoption and Late Industrialization”)</p>
     
     <details class="abs-details">
       <summary>Abstract</summary>
