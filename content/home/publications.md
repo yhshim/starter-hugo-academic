@@ -155,7 +155,11 @@ design:
       <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>
     </p>
     <p class="status">Revise and Resubmit, <em><b>Review of Economics and Statistics</b></em></p>
-<p class="links">
+<p class="links"> 
+<p class="note">(Previously circulated as “Technology Adoption and Late Industrialization”)
+
+</p>
+
   <a href="https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" target="_blank" rel="noopener">Latest draft</a> (November 2025)
   <span class="dot">·</span>
   <a href="https://younghunshim.com/uploads/Choi_Shim_Ind_appendix.pdf" target="_blank" rel="noopener">Online Appendix</a>
@@ -163,14 +167,12 @@ design:
   <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization" target="_blank" rel="noopener">STEG Working Paper 033</a>
   <span class="dot">·</span>
   <a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545" target="_blank" rel="noopener">IMF Working Paper 2024/259</a>
-</p> <p class="note">(Previously circulated as “Technology Adoption and Late Industrialization”)
-
-</p>
+</p> 
     
     <details class="abs-details">
       <summary>Abstract</summary>
       <div class="abs-abstract">
-        This paper develops an occupation-level measure of Capital-Embodied Innovation (CEI) by matching patents with capital goods based on their text similarity. The impact of CEI on labor demand is heterogeneous, depending on the similarity between capital and occupational tasks. Specifically, CEI associated with task-similar capital reduces the relative labor demand, whereas CEI related to task-dissimilar capital raises it. Between 1980 and 2015, abstract and non-routine occupations experienced more innovations in task-dissimilar capital and fewer in task-similar capital. CEI can explain a significant fraction of the task-biased labor market changes and the decline in labor share.
+        We study how one-time subsidies for adoption of modern technology drove South Korea's industrialization in the 1970s. Leveraging unique historical data, we provide causal evidence consistent with coordination failures: adoption improved adopters' performance and generated local spillovers, with firms more likely to adopt when other local firms had already adopted. We incorporate these findings into a quantitative model, where the potential for multiple steady states depends on parameters mapped to the causal estimates. In our calibrated model, South Korea's one-time subsidies shifted its economy to a more industrialized steady state, increasing heavy manufacturing's GDP share by 8.6% and export intensity by 16.2%. Larger market access amplifies the effects of these subsidies, as the gains from adoption increase with firms' scale.
       </div>
     </details>
   </section>
