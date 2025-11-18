@@ -42,7 +42,7 @@ design:
     .status { color: var(--muted); }
     .links a { color: var(--accent); text-decoration: none; }
     .links a:hover, .links a:focus { text-decoration: underline; }
-    .dot { color: #c7cdd6; margin: 0 .35rem; 
+    .dot { color: #c7cdd6; margin: 0 .35rem; }
 
   </style>
 </head>
