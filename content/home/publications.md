@@ -155,12 +155,16 @@ design:
       <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>
     </p>
     <p class="status">Revise and Resubmit, <em><b>Review of Economics and Statistics</b></em></p>
-    <p class="links">
-      <a href="https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" target="_blank" rel="noopener">Latest draft</a> (November 2025) </p><p class="note">(Previously circulated as “Technology Adoption and Late Industrialization”)
-      <span class="dot">·</span>
-      <a href="https://younghunshim.com/uploads/Choi_Shim_Ind_appendix.pdf" target="_blank" rel="noopener">Online Appendix</a><span class="dot">·</span> <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization" target="_blank" rel="noopener">STEG Working Paper 033</a>
-      <span class="dot">·</span>
-      <a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545" target="_blank" rel="noopener">IMF Working Paper 2024/259</a></p> 
+<p class="links">
+  <a href="https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" target="_blank" rel="noopener">Latest draft</a> (November 2025)
+  <span class="dot">·</span>
+  <a href="https://younghunshim.com/uploads/Choi_Shim_Ind_appendix.pdf" target="_blank" rel="noopener">Online Appendix</a>
+  <span class="dot">·</span>
+  <a href="https://steg.cepr.org/publications/technology-adoption-and-late-industrialization" target="_blank" rel="noopener">STEG Working Paper 033</a>
+  <span class="dot">·</span>
+  <a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/19/Industrialization-and-the-Big-Push-Theory-and-Evidence-from-South-Korea-559545" target="_blank" rel="noopener">IMF Working Paper 2024/259</a>
+</p>
+<p class="note">(Previously circulated as “Technology Adoption and Late Industrialization”)</p>
     
     
     <details class="abs-details">
