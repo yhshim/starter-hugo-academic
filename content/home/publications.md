@@ -59,7 +59,7 @@ Evidence from Chile's Administrative Data</h2>
       <a href="https://sites.google.com/view/nanliweb/home" target="_blank" rel="noopener">Nan Li</a>, Maria Jesus Perez
     </p>
     <p class="links">
-      <a href="https://younghunshim.com/uploads/Commodity_FKLPS.pdf" target="_blank" rel="noopener">Latest draft</a> (January 2026)<span class="dot">·</span>
+      <a href="https://younghunshim.com/uploads/Commodity_FKLPS.pdf" target="_blank" rel="noopener">Latest draft</a> (January 2026)
     </p>
 <details class="abs-details">
   <summary>Abstract</summary>
