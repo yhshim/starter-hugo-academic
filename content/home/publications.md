@@ -60,7 +60,6 @@ Evidence from Chile's Administrative Data</h2>
     </p>
     <p class="links">
       <a href="https://younghunshim.com/uploads/Commodity_FKLPS.pdf" target="_blank" rel="noopener">Latest draft</a> (January 2026)<span class="dot">·</span>
-      
     </p>
 <details class="abs-details">
   <summary>Abstract</summary>
