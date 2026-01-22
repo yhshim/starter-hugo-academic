@@ -54,9 +54,9 @@ design:
 Evidence from Chile's Administrative Data</h2>
     <p class="authors">
       with
-      Pablo Filippi</a>,
+      Pablo Filippi,
       <a href="https://sites.google.com/view/ryansungryongkim/" target="_blank" rel="noopener">Ryan Kim</a>,
-      <a href="https://sites.google.com/view/nanliweb/home" target="_blank" rel="noopener">Nan Li</a>, Maria Jesus Perez</a>
+      <a href="https://sites.google.com/view/nanliweb/home" target="_blank" rel="noopener">Nan Li</a>, Maria Jesus Perez
     </p>
     <p class="links">
       <a href="https://younghunshim.com/uploads/Commodity_FKLPS.pdf" target="_blank" rel="noopener">Latest draft</a> (Jan 2026)<span class="dot">·</span>
@@ -65,7 +65,7 @@ Evidence from Chile's Administrative Data</h2>
     <details class="abs-details">
       <summary>Abstract</summary>
       <div class="abs-abstract">
-        We study how commodity booms affect productivity using administrative microdata from Chile that combine firm exports by products and destinations, employer-employee records, and firm-to-firm production networks. Exploiting differential Chinese demand for Chilean commodities, we construct firm-specific commodity price shocks. We find three micro-level mechanisms. First, more exposed firms experience larger revenue increases but no differential productivity gains, channeling revenues into wages and materials. Second, among exposed firms, low-productivity firms expand employment while high-productivity firms do not, hiring workers from more productive employers. Third, domestic suppliers with greater indirect exposure show larger increases in sales and productivity. We develop a model with heterogeneous export wedges and labor market frictions where commodity booms can reduce sectoral aggregate productivity by exacerbating input misallocation&#8212consistent with both the firm-level and aggregate evidence. Calibrated to Chile, this mechanism explains half of the mining TFP decline from 2005 to 2013.
+        We study how commodity booms affect productivity using administrative microdata from Chile that combine firm exports by products and destinations, employer-employee records, and firm-to-firm production networks. Exploiting differential Chinese demand for Chilean commodities, we construct firm-specific commodity price shocks. We find three micro-level mechanisms. First, more exposed firms experience larger revenue increases but no differential productivity gains, channeling revenues into wages and materials. Second, among exposed firms, low-productivity firms expand employment while high-productivity firms do not, hiring workers from more productive employers. Third, domestic suppliers with greater indirect exposure show larger increases in sales and productivity. We develop a model with heterogeneous export wedges and labor market frictions where commodity booms can reduce sectoral aggregate productivity by exacerbating input misallocation&#8212;consistent with both the firm-level and aggregate evidence. Calibrated to Chile, this mechanism explains half of the mining TFP decline from 2005 to 2013.
       </div>
     </details>
   </section>
