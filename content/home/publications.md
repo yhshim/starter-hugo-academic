@@ -180,7 +180,7 @@ Evidence from Chile's Administrative Data</h2>
 
 </p>
     <p class="links">
-     <a href="https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" target="_blank" rel="noopener">Latest draft</a> (November 2025)
+     <a href="https://younghunshim.com/uploads/Choi_Shim_Ind.pdf" target="_blank" rel="noopener">Latest draft</a> (January 2026)
   <span class="dot">·</span>
   <a href="https://younghunshim.com/uploads/Choi_Shim_Ind_appendix.pdf" target="_blank" rel="noopener">Online Appendix</a>
   <span class="dot">·</span>
