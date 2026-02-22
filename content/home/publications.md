@@ -174,7 +174,7 @@ Evidence from Chile's Administrative Data</h2>
       with
       <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>
     </p>
-    <p class="status">Accepted, <em><b>Review of Economics and Statistics</b></em></p>
+    <p class="status">Forthcoming, <em><b>Review of Economics and Statistics</b></em></p>
 
 <p class="note">(Previously circulated as “Technology Adoption and Late Industrialization”)
 
