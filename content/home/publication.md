@@ -69,7 +69,7 @@ design:
 drove South Korea’s industrialization in the 1970s. Leveraging unique historical data,
 we provide causal evidence consistent with coordination failures: adoption improved
 adopters’ performance and generated local spillovers, with firms more likely to adopt
-when other local firms had already adopted.We incorporate these findings into a quantitative model, where the potential for multiple steady states depends on parameters
+when other local firms had already adopted. We incorporate these findings into a quantitative model, where the potential for multiple steady states depends on parameters
 mapped to the causal estimates. In our calibrated model, South Korea’s temporary
 subsidies shifted its economy to a more industrialized steady state, increasing heavy
 manufacturing’s GDP share by 27% and export intensity by 39%. Larger market access
