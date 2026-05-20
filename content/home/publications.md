@@ -133,7 +133,7 @@ Evidence from Chile's Administrative Data</h2>
     </p>
     <p class="status">Reject and Resubmit, <em><b>American Economic Review</b></em></p>
     <p class="links">
-      <a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf" target="_blank" rel="noopener">Latest draft</a> (March 2024)
+      <a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf" target="_blank" rel="noopener">Latest draft</a> (May 2026)
       <span class="dot">·</span>
       <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries" target="_blank" rel="noopener">STEG Working Paper 091</a>
       <span class="dot">·</span>
@@ -142,7 +142,7 @@ Evidence from Chile's Administrative Data</h2>
     <details class="abs-details">
       <summary>Abstract</summary>
       <div class="abs-abstract">
-        Should policymakers in developing countries prioritize foreign technology adoption over domestic innovation? How might this depend on development stages? Using historical technology transfer data from South Korea, we find that greater productivity gaps with foreign firms correlate with larger productivity growth after adoption, despite lower fees. Furthermore, non-adopters increased patent citations to foreign sellers, suggesting knowledge spillovers. Motivated by these findings, we build a two-country growth model with innovation and adoption. As the gaps narrow, productivity gains and spillovers from adoption diminish and foreign sellers strategically raise fees due to intensified competition, which renders adoption subsidies less effective. Korea’s shift from adoption to innovation subsidies substantially contributed to growth and welfare. We also explore the optimal policy and its interaction with import tariffs.
+        When should policymakers transition from adoption-led to innovation-led growth? Using South Korea's historical technology-transfer data, we document three facts: firms benefit more from adoption when the technology gap is larger; sellers charge higher fees as the gap narrows; and adoption generates knowledge diffusion to non-adopters. We build a two-country growth model consistent with these facts. As the gap narrows, adoption's productivity gains diminish and adoption fees rise, eroding the effectiveness of adoption subsidies. Adoption's contribution to Korea's TFP growth falls from 31% to 3% while innovation's rises from 2% to 33% over 1973--2023. Korea's state-dependent shift from adoption to innovation subsidies improved welfare by 7.1%. Higher initial import tariffs can further improve welfare by inducing foreign sellers to charge lower fees.
       </div>
     </details>
   </section>
@@ -165,8 +165,6 @@ Evidence from Chile's Administrative Data</h2>
       </div>
     </details>
   </section>
-
-
 
 </main>
 </body>
