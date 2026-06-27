@@ -103,7 +103,7 @@ Evidence from Chile's Administrative Data</h2>
     </p>
     <p class="status">Revise and Resubmit, <em><b>Journal of Political Economy</b></em></p>
     <p class="links">
-      <a href="https://younghunshim.com/uploads/CLRS.pdf" target="_blank" rel="noopener">Latest draft</a> (February 2025)
+      <a href="https://younghunshim.com/uploads/CLRS.pdf" target="_blank" rel="noopener">Latest draft</a> (March 2026)
       <span class="dot">·</span>
       <a href="https://www.nber.org/papers/w32648" target="_blank" rel="noopener">NBER Working Paper 32648</a>
       <span class="dot">·</span>
