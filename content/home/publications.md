@@ -58,6 +58,8 @@ Evidence from Chile's Administrative Data</h2>
       <a href="https://sites.google.com/view/ryansungryongkim/" target="_blank" rel="noopener">Ryan Kim</a>,
       <a href="https://sites.google.com/view/nanliweb/home" target="_blank" rel="noopener">Nan Li</a>, Maria Jesus Perez
     </p>
+
+<p class="status">Revise and Resubmit, <em><b>Journal of International Economics</b></em></p>
     <p class="links">
       <a href="https://younghunshim.com/uploads/Commodity_FKLPS.pdf" target="_blank" rel="noopener">Latest draft</a> (June 2026)
     </p>
