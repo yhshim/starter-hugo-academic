@@ -42,7 +42,37 @@ design:
 <main class="papers">
 
 <section class="paper">
-    <h2>Industrialization and the Big Push: Theory and Evidence from South Korea</h2>
+ <!-- Paper 2 -->
+
+  <section class="paper">
+    <h2>Superstars or Supervillains? Large Firms in the South Korean Growth Miracle</h2>
+    <p class="authors">
+      with
+      <a href="http://www.jaedochoi.com" target="_blank" rel="noopener">Jaedo Choi</a>,
+      <a href="https://alevchenko.com" target="_blank" rel="noopener">Andrei A. Levchenko</a>,
+      <a href="https://www.druzic.com" target="_blank" rel="noopener">Dimitrije Ruzic</a>
+    </p>
+    <p class="status">Accepted, <em><b>Journal of Political Economy</b></em></p>
+    <p class="links">
+      <a href="https://younghunshim.com/uploads/CLRS.pdf" target="_blank" rel="noopener">Latest draft</a> (March 2026)
+      <span class="dot">·</span>
+      <a href="https://www.nber.org/papers/w32648" target="_blank" rel="noopener">NBER Working Paper 32648</a>
+      <span class="dot">·</span>
+      <a href="https://cepr.org/publications/dp19207" target="_blank" rel="noopener">CEPR Discussion Paper 19207</a>
+      <span class="dot">·</span>
+      Press:
+      <a href="https://www.mk.co.kr/en/economy/11074598" target="_blank" rel="noopener">Maeil Business Newspaper</a>
+      <span class="dot">·</span>
+      Coverage:
+      <a href="https://marginalrevolution.com/marginalrevolution/2024/07/large-firms-in-the-south-korean-growth-miracle.html" target="_blank" rel="noopener">Marginal Revolution</a>
+    </p>
+    <details class="abs-details">
+      <summary>Abstract</summary>
+      <div class="abs-abstract">
+        We quantify the contribution of the largest firms to South Korea's economic performance since 1970. Using firm-level historical data, we document a novel fact: firm concentration rose substantially during the growth miracle period. To understand whether the increased importance of large firms contributed positively or negatively to the South Korean growth miracle, we build a quantitative heterogeneous firm small open economy model. Our framework accommodates a variety of causes and consequences of (changes in) firm concentration: productivity, distortions, selection into exporting, and oligopolistic and oligopsonistic market power in domestic goods and labor markets. The model is implemented directly on the firm-level data and inverted to recover the drivers of changing concentration. We find that most of the increased concentration is attributable to higher productivity growth of the largest firms. Shutting down differential productivity growth of the top 3 firms within each sector would have decreased firm concentration, but nonetheless would have reduced welfare by 2%. Differential distortions and foreign market access of the  largest firms played a more limited role in the trends in concentration and had a smaller welfare impact. Thus, the largest Korean firms were superstars rather than supervillains.
+      </div>
+    </details>
+  </section>    <h2>Industrialization and the Big Push: Theory and Evidence from South Korea</h2>
     <p class="authors">
       with
       <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>
