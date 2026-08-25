@@ -82,18 +82,16 @@ Evidence from Chile's Administrative Data</h2>
       <a href="https://sites.wustl.edu/yshin/" target="_blank" rel="noopener">Yongseok Shin</a>
     </p>
     <p class="links">
-      <a href="https://younghunshim.com/uploads/CCSS_JV.pdf" target="_blank" rel="noopener">Latest draft</a> (September 2025)<span class="dot">·</span>
+      <a href="https://younghunshim.com/uploads/CCSS_JV.pdf" target="_blank" rel="noopener">Latest draft</a> (July 2026)<span class="dot">·</span>
       <a href="https://www.nber.org/papers/w34284" target="_blank" rel="noopener">NBER Working Paper 34284</a>
     </p>
     <details class="abs-details">
       <summary>Abstract</summary>
       <div class="abs-abstract">
-        US multinationals formed joint ventures in China for market access and lower labor costs. However, these ventures transfer technology to Chinese firms, fueling future competition. While individual firms weigh the risks to their own profits, they disregard the negative impact on other US firms and the broader economy, resulting in an over-investment that may reduce the US welfare. In our empirical analysis, industries with more joint ventures in China show positive spillovers to Chinese firms but negative outcomes for firms in the US. We develop a two-country model with oligopolistic competition, innovation, and joint ventures. For the US, the short-run gains from joint ventures are outweighed by long-run losses due to rising Chinese competition. Joint ventures benefit large US firms at the expense of small firms and the real wages of workers. A ban on joint ventures since 1999 would have boosted US welfare by 1.2 percent.
+        US multinationals formed joint ventures in China for market access and lower labor costs. However, these ventures transfer technology to Chinese partners, fueling future competition. While individual multinationals weigh the risks to their own profits, they disregard the negative impact on other US firms and the broader economy, resulting in an over-investment that may reduce US welfare. In our empirical analysis, across industries, US firms in those with more joint ventures in China experienced worse outcomes, and within industries, firms with greater product overlap with the participating multinationals declined more. We develop a two-country model with oligopolistic competition, innovation, and joint ventures. For the US, the short-run gains from joint ventures are outweighed by long-run losses due to rising Chinese competition. Joint ventures benefit participating US firms at the expense of non-participants and the real wages of workers. A ban on joint ventures since 1999 would have boosted US welfare by 1.1 percent.
       </div>
     </details>
   </section>
-
- 
 
   <!-- Paper 3 -->
 
