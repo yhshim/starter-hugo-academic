@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Publication
+widget_id: Publication and Accepted Papers
 headless: true
 weight: 30
 title: Publication
