@@ -102,7 +102,7 @@ Evidence from Chile's Administrative Data</h2>
       <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>
     </p>
     <p class="links">
-      <a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf" target="_blank" rel="noopener">Latest draft</a> (May 2026)
+      <a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf" target="_blank" rel="noopener">Latest draft</a> (October 2026)
       <span class="dot">·</span>
       <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries" target="_blank" rel="noopener">STEG Working Paper 091</a>
       <span class="dot">·</span>
