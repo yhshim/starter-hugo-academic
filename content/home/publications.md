@@ -82,7 +82,7 @@ Evidence from Chile's Administrative Data</h2>
       <a href="https://sites.wustl.edu/yshin/" target="_blank" rel="noopener">Yongseok Shin</a>
     </p>
     <p class="links">
-      <a href="https://younghunshim.com/uploads/CCSS_JV.pdf" target="_blank" rel="noopener">Latest draft</a> (July 2026)<span class="dot">·</span>
+      <a href="https://younghunshim.com/uploads/CCSS_JV.pdf" target="_blank" rel="noopener">Latest draft</a> (October 2026)<span class="dot">·</span>
       <a href="https://www.nber.org/papers/w34284" target="_blank" rel="noopener">NBER Working Paper 34284</a>
     </p>
     <details class="abs-details">
@@ -102,7 +102,7 @@ Evidence from Chile's Administrative Data</h2>
       <a href="http://www.jaedochoi.com/" target="_blank" rel="noopener">Jaedo Choi</a>
     </p>
     <p class="links">
-      <a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf" target="_blank" rel="noopener">Latest draft</a> (October 2026)
+      <a href="https://younghunshim.com/uploads/CS_from_adoption_to_innovation.pdf" target="_blank" rel="noopener">Latest draft</a> (May 2026)
       <span class="dot">·</span>
       <a href="https://steg.cepr.org/publications/adoption-innovation-state-dependent-technology-policy-developing-countries" target="_blank" rel="noopener">STEG Working Paper 091</a>
       <span class="dot">·</span>
